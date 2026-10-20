@@ -1,80 +1,59 @@
-# Hi, I'm Anurag Singh
+<h1 align="center">Anurag Singh</h1>
 
-**Final-year B.Tech CS student at SMVDU, building NLP and applied ML systems. Seeking AI/ML or SDE internships.**
+<p align="center">
+  <a href="https://github.com/anurag-env">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&width=520&lines=NLP+%26+Applied+ML;First-author+NLPIR+2026;Seeking+AI%2FML+or+SDE+internships" alt="Typing intro" />
+  </a>
+</p>
 
-I fine-tune transformers, build retrieval pipelines, and ship full-stack products. My research is accepted at an international conference, and I've shipped AI-integrated features to real schools in production.
+<p align="center">
+  <a href="https://anurag-env.github.io/Portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/anu-env/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:anuragsingh.eu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
----
+Final-year CS student at SMVDU. I fine-tune transformers, build RAG pipelines, and ship full-stack products.
 
-## At a glance
+- 📄 **First-author paper, NLPIR 2026** (Springer LNNS): RoBERTa sentiment classifier, **96% accuracy, 0.95 macro-F1**
+- 🏆 **Smart India Hackathon 2025 finalist**: 1,360 teams selected from 68,766
+- 💼 **Software Development Intern, Eduspheria**: shipped a 60+ page React app (~97K LOC) plus AI features to real schools
+- 🤝 **AI Club Co-Lead**, SMVDU
 
-| | |
-|---|---|
-| **Research** | First-author paper accepted at **NLPIR 2026** (Nara, Japan; Springer LNNS) |
-| **Industry** | Software Development Intern at **Eduspheria** (Jun to Aug 2026) |
-| **Competitions** | **Smart India Hackathon 2025 Finalist**: 1,360 teams selected from 68,766 |
-| **Leadership** | **AI Club Co-Lead**, SMVDU: workshops on Deep Learning and Computer Vision for 100+ students |
-| **Focus** | NLP, transformer fine-tuning, RAG, explainable AI, full-stack development |
+### Projects *(click to expand)*
 
----
+<details>
+<summary><b>🧬 RAG-RERoBERTa</b>: explainable biomedical QA <i>(in progress)</i></summary>
+<br>
+Recursive embedding refinement + graph attention over biomedical knowledge graphs, with SHAP explanations and English-Hindi speech output.<br>
+<code>PyTorch</code> <code>Transformers</code> <code>Optuna</code> · <a href="https://github.com/anurag-env/explainable-biomedical-qa">Code</a>
+</details>
 
-## Research
+<details>
+<summary><b>🔐 Local Password Manager</b>: offline, zero-network vault</summary>
+<br>
+Argon2id key derivation, AES-256-GCM encryption, keys held in memory only.<br>
+<code>Electron</code> <code>Node.js</code> <code>SQLite</code> · <a href="ADD_LINK">Code</a>
+</details>
 
-**RoBERTa-Driven Transformer Framework for Context-Aware Sentiment Classification of Social Media Text**
-First author, accepted at NLPIR 2026 (Springer LNNS)
+<details>
+<summary><b>🗄️ NL2SQL</b>: text-to-SQL on a 4GB GPU</summary>
+<br>
+T5 fine-tuned on WikiSQL with QLoRA to fit consumer hardware.<br>
+<code>PyTorch</code> <code>PEFT</code> <code>Transformers</code> · <a href="ADD_LINK">Code</a>
+</details>
 
-- Fine-tuned RoBERTa for 3-class sentiment classification on 18,170 YouTube comments
-- **96% accuracy, 0.95 macro-F1** on a held-out test set
-- Handled a heavy class imbalance (62.6% positive vs. 12.9% negative) with weighted cross-entropy and label smoothing
-- Stack: PyTorch, Hugging Face Transformers, stratified 70/15/15 split, AdamW with LR scheduling
-- Code: [Paper repository](ADD_LINK)
+<details>
+<summary><b>📚 Pragya</b>: local RAG research assistant</summary>
+<br>
+Explains papers in technical or plain language, runs fully offline, under 400ms query latency on CPU.<br>
+<code>Llama3</code> <code>ChromaDB</code> <code>Streamlit</code> · <a href="ADD_LINK">Code</a>
+</details>
 
-**RAG-RERoBERTa: Explainable Multilingual Biomedical Question Answering** *(in progress)*
+<details>
+<summary><b>🌾 KrishiRakshak</b>: SIH 2025 finalist</summary>
+<br>
+Wheat disease risk maps from satellite, drone and leaf-photo data.<br>
+<code>React</code> <code>Node.js</code> <code>PyTorch</code> · <a href="ADD_LINK">Code</a>
+</details>
 
-- Novel recursive embedding refinement, with Graph Attention Networks for evidence aggregation over biomedical knowledge graphs
-- Trained across PubMedQA, MedQA and HealthSearchQA with Optuna hyperparameter search
-- SHAP and Integrated Gradients explainability, plus an English-Hindi translation and speech output pipeline
-- Code: [explainable-biomedical-qa](https://github.com/anurag-env/explainable-biomedical-qa)
-
----
-
-## Selected projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Local Password Manager**](ADD_LINK) | Offline, zero-network password vault with a strict security design. Argon2id key derivation, AES-256-GCM encryption, in-memory-only keys. | Electron, Node.js, SQLite |
-| [**NL2SQL**](ADD_LINK) | Natural language to SQL on WikiSQL. Fine-tuned T5 with QLoRA to fit a 4GB consumer GPU. | PyTorch, Transformers, PEFT |
-| [**Pragya**](ADD_LINK) | Fully local RAG assistant that explains research papers in technical or plain language. Section-aware chunking, query latency under 400ms on CPU. | Llama3, ChromaDB, MiniLM, Streamlit |
-| [**AI Research Paper Writer**](ADD_LINK) | Turns a single topic into a structured DOCX paper with abstract, references, tables and figures through a 10-module LLM pipeline. | Python, LLM APIs, python-docx |
-| [**KrishiRakshak**](ADD_LINK) | Smart India Hackathon 2025 finalist: wheat disease risk maps from satellite imagery, drone footage and farmer-uploaded leaf photos. | React, Node.js, PyTorch, MongoDB |
-
----
-
-## Industry experience
-
-**Software Development Intern, Eduspheria** (Jun to Aug 2026)
-*EdTech startup building school-management and tutoring software used by schools across India. Code is private.*
-
-- **Saksham**: built and maintained a 60+ page React 18 app (~97K lines) with role-based access across 6 user roles, real-time WebSocket and push notifications, PWA support, and 30+ Django REST integrations
-- Integrated AI features: DALL·E 3 poster generation, AI question-paper generation, and a conversational assistant
-- **Sarthi**: designed 5+ original gamified learning exercises for Grades 5 to 12 and integrated 100+ PhET simulations through an iframe/postMessage architecture
-- Worked in a 6-person team with feature branches and PR review
-
----
-
-## Tech I work with
-
-| | |
-|---|---|
-| **ML / NLP** | PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, Optuna, SHAP, RAG, embeddings |
-| **Languages** | Python, JavaScript, SQL, Java, C/C++ |
-| **Web** | React, Django, Django REST Framework, Node.js, FastAPI |
-| **Tools** | Git, Linux, Docker, PostgreSQL, SQLite, AWS |
-
----
-
-## Get in touch
-
-[Portfolio](https://anurag-env.github.io/Portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/anu-env/) · anuragsingh.eu@gmail.com
-
-Open to paid AI/ML and SDE internships.
+<p align="center"><i>Open to paid AI/ML and SDE internships.</i></p>
