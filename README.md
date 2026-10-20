@@ -1,16 +1,16 @@
-## Hi there 👋
+# Anurag Singh
 
-<!--
-**anurag-env/anurag-env** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech CS @ SMVDU · NLP & applied ML · Seeking AI/ML or SDE internships
 
-Here are some ideas to get you started:
+- First-author paper accepted at **NLPIR 2026** (Nara, Japan; Springer LNNS): RoBERTa sentiment classifier, 96% accuracy, 0.95 macro-F1 on 18,170 comments
+- **Smart India Hackathon 2025 finalist** (1,360 teams selected from 68,766)
+- **Software Development Intern, Eduspheria** (Jun–Aug 2026): built a 60+ page React school-management app (~97K LOC) with RBAC, real-time notifications and AI features. Code is private.
+- **AI Club Co-Lead**, SMVDU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- [explainable-biomedical-qa](https://github.com/anurag-env/explainable-biomedical-qa): multilingual biomedical QA with recursive embedding refinement (in progress)
+- [Paper code](LINK): RoBERTa sentiment classification
+- [Password manager](LINK): offline Electron app, Argon2id + AES-256-GCM
+- [NL2SQL](LINK): T5 fine-tuned with QLoRA on a 4GB GPU
+
+[Portfolio](https://anurag-env.github.io/Portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/anu-env/) · anuragsingh.eu@gmail.com
