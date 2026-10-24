@@ -1,4 +1,4 @@
-<h1>Anurag Singh<a href="https://www.linkedin.com/in/anu-env/"><img align="right" height="20" src="linkedin.svg" alt="LinkedIn"></a><a href="https://anurag-env.github.io/Portfolio-website/"><img align="right" height="20" src="https://img.shields.io/badge/Portfolio-3b0b0b?style=flat-square" alt="Portfolio"></a></h1>
+<h1>Anurag Singh<a href="https://www.linkedin.com/in/anu-env/"><img align="right" height="20" src="linkedin.svg" alt="LinkedIn"></a><a href="https://anurag-env.github.io/Portfolio/"><img align="right" height="20" src="https://img.shields.io/badge/Portfolio-3b0b0b?style=flat-square" alt="Portfolio"></a></h1>
 
 Final-year B.Tech CS @ SMVDU · NLP & applied ML · Seeking AI/ML or SDE internships
 
