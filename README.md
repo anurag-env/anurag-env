@@ -1,4 +1,7 @@
-# Anurag Singh <sub>[Portfolio](https://anurag-env.github.io/Portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/anu-env/) · [Email](mailto:anuragsingh.eu@gmail.com)</sub>
+<a href="https://www.linkedin.com/in/anu-env/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://anurag-env.github.io/Portfolio-website/"><img align="right" src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+
+# Anurag Singh
 
 Final-year B.Tech CS @ SMVDU · NLP & applied ML · Seeking AI/ML or SDE internships
 
@@ -11,3 +14,5 @@ Final-year B.Tech CS @ SMVDU · NLP & applied ML · Seeking AI/ML or SDE interns
 - [explainable-biomedical-qa](https://github.com/anurag-env/explainable-biomedical-qa): multilingual biomedical QA with recursive embedding refinement (in progress)
 - [text-sentiment-classification](https://github.com/Devesh-Singh-23/Text_Sentiment_Classification): RoBERTa sentiment classification
 - [Password manager](https://github.com/anurag-env/flexiple): GCC (Global Capability Centre) - Atlas
+
+anuragsingh.eu@gmail.com
