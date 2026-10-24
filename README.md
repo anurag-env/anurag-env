@@ -1,6 +1,6 @@
 <h1>Anurag Singh<a href="https://www.linkedin.com/in/anu-env/"><img align="right" height="20" src="https://img.shields.io/badge/LinkedIn-2d5a87?style=flat-square" alt="LinkedIn"></a><a href="https://anurag-env.github.io/Portfolio-website/"><img align="right" height="20" src="https://img.shields.io/badge/Portfolio-3b0b0b?style=flat-square" alt="Portfolio"></a></h1>
 
-Final-year B.Tech CS @ SMVDU · NLP & applied ML · AI/ML or SDE internships
+Final-year B.Tech CS @ SMVDU · NLP & applied ML · Open to AI/ML or SDE internships
 
 - First-author paper accepted at **NLPIR 2026** (Nara, Japan; Springer LNNS): RoBERTa sentiment classifier, 96% accuracy, 0.95 macro-F1 on 18,170 comments
 - **Smart India Hackathon 2025 finalist** (1,360 teams selected from 68,766)
