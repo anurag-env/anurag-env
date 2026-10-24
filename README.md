@@ -1,6 +1,4 @@
-<a href="https://www.linkedin.com/in/anu-env/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://anurag-env.github.io/Portfolio-website/"><img align="right" src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-
+<a href="https://www.linkedin.com/in/anu-env/"><img align="right" src="https://img.shields.io/badge/%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://anurag-env.github.io/Portfolio-website/"><img align="right" src="https://img.shields.io/badge/Portfolio-3b0b0b?style=flat-square" alt="Portfolio"></a>
 # Anurag Singh
 
 Final-year B.Tech CS @ SMVDU · NLP & applied ML · Seeking AI/ML or SDE internships
@@ -14,5 +12,3 @@ Final-year B.Tech CS @ SMVDU · NLP & applied ML · Seeking AI/ML or SDE interns
 - [explainable-biomedical-qa](https://github.com/anurag-env/explainable-biomedical-qa): multilingual biomedical QA with recursive embedding refinement (in progress)
 - [text-sentiment-classification](https://github.com/Devesh-Singh-23/Text_Sentiment_Classification): RoBERTa sentiment classification
 - [Password manager](https://github.com/anurag-env/flexiple): GCC (Global Capability Centre) - Atlas
-
-anuragsingh.eu@gmail.com
